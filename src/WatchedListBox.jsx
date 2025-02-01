@@ -6,7 +6,6 @@ const WatchedListBox = () => {
     const [isOpen2, setIsOpen2] = useState(true);
  
     
-
   return (
     <div className="box">
         <button
